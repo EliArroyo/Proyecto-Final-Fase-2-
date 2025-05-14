@@ -1,0 +1,113 @@
+# Compile of Datapath_v1.v was successful.
+# Compile of ALU_control.v was successful with warnings.
+# Compile of banco_registros.v was successful.
+# Compile of Unidad_control.v was successful.
+# Compile of ALU.v was successful.
+# Compile of memoria_datos.v was successful.
+# Compile of mem_instrucciones.v was successful.
+# Compile of Program_counter.v was successful.
+# Compile of add_4_module.v was successful.
+# Compile of multiplexor.v was successful.
+# 10 compiles, 0 failed with no errors.
+vsim -gui work.Datapath_v1
+# vsim -gui work.Datapath_v1 
+# Start time: 09:04:18 on May 13,2025
+# Loading work.Datapath_v1
+# Loading work.add_four_module
+# Loading work.PC
+# Loading work.memoria_instrucciones
+# Loading work.Banco_Registros
+# Loading work.memoria_datos
+# Loading work.ALU
+# Loading work.multiplexor
+# Loading work.Unidad_control
+# Loading work.ALU_control
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run -all
+run -all
+vsim -gui work.DataPath_TB
+# End time: 09:05:34 on May 13,2025, Elapsed time: 0:01:16
+# Errors: 0, Warnings: 9
+# vsim -gui work.DataPath_TB 
+# Start time: 09:05:34 on May 13,2025
+# Loading work.DataPath_TB
+# Loading work.Datapath_v1
+# Loading work.add_four_module
+# Loading work.PC
+# Loading work.memoria_instrucciones
+# Loading work.Banco_Registros
+# Loading work.memoria_datos
+# Loading work.ALU
+# Loading work.multiplexor
+# Loading work.Unidad_control
+# Loading work.ALU_control
+run
+run
+run -all
+# ** Note: $stop    : //Mac/Home/Downloads/PROJECT_DATAPATH/Datapath_v1.v(62)
+#    Time: 1550 ns  Iteration: 0  Instance: /DataPath_TB
+# Break in Module DataPath_TB at //Mac/Home/Downloads/PROJECT_DATAPATH/Datapath_v1.v line 62
+run
+run
+run
+run -all
+# Break key hit
+# Simulation stop requested.
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run -continue
+run -all

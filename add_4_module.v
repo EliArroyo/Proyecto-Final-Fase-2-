@@ -1,5 +1,5 @@
 //PROYECTO FASE 1
-//Hecho por Rodrigo Esaú Villegas Nuño y José Luis Chávez Gómez
+//Hecho por Rebeca Hernandez, Elizabeth Arroyo y Humberto Peña
 //Unidad de operaciones
 
 module add_four_module(

@@ -1,5 +1,6 @@
 //PROYECTO FASE 1
-//Hecho por Rodrigo Esaú Villegas Nuño y Jose Luis Chávez Gómez
+//Hecho por Rebeca Hernandez, Elizabeth Arroyo y Humberto Peña
+
 //Banco de registros
 
 module Banco_Registros(

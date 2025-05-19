@@ -1,5 +1,5 @@
 //PROYECTO FASE 1
-//Hecho por Rodrigo Esaú Villegas Nuño y Jose Luis Chávez Gómez
+//Hecho por Rebeca Hernandez, Elizabeth Arroyo y Humberto Peña
 //Multiplexor
 
 module multiplexor(

@@ -1,5 +1,5 @@
 //PROYECTO FASE 1
-//Hecho por Rodrigo Esaú Villegas Nuño y José Luis Chávez Gómez
+//Hecho por Rebeca Hernandez, Elizabeth Arroyo y Humberto Peña
 //DataPath versión 1 (instrucciones tipo R)
 `timescale 1ns/1ns
 

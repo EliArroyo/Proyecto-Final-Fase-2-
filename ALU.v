@@ -1,6 +1,4 @@
-//PROYECTO FASE 1
-//Hecho por Rodrigo Esaú Villegas Nuño y José Luis Chávez Gómez
-//Unidad Aritmético-Lógica
+
 
 module ALU(
     input wire [31:0] A,
